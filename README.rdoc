@@ -21,8 +21,7 @@ A simple implementation of recording a Tropo phone call and storing it in an s3 
 
 === things to do:
 
-
-  Create a new Tropo WebAPI application at Tropo.com www.tropo.com
+Create a new Tropo WebAPI application at Tropo.com http://www.tropo.com
   add a phone number
 
   Q:  What URL powers your app?
